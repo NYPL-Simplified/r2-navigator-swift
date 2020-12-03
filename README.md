@@ -20,7 +20,7 @@ install R2Navigator with Carthage:
  2. Update your Cartfile to include the following:
 
     ```ruby
-    github "readium/r2-navigator-swift" ~> 1.0.6
+    github "NYPL-Simplified/r2-navigator-swift" "develop"
     ```
 
  3. Run `carthage update` and

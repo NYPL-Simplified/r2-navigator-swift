@@ -1,1 +1,4 @@
+github "NYPL-Simplified/r2-shared-swift" "0871e205c32f74d28f6fa254751e61ce784451fc"
+github "cezheng/Fuzi" "3.1.2"
+github "dexman/Minizip" "1.4.0"
 github "scinfu/SwiftSoup" "2.3.2"
